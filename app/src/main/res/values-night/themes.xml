@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Base.Theme.RVTraining" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your dark theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/black</item>  &lt;!&ndash; Toolbar and primary elements color &ndash;&gt;-->
+<!--        <item name="colorOnPrimary">@color/white</item>  &lt;!&ndash; Text color on primary color &ndash;&gt;-->
+<!--        <item name="colorPrimaryVariant">@color/black</item>  &lt;!&ndash; Darker shade for status bar &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/color22</item>  &lt;!&ndash; Used for secondary elements (buttons) &ndash;&gt;-->
+<!--        <item name="colorOnSecondary">@color/white</item>  &lt;!&ndash; Text color on secondary color &ndash;&gt;-->
+<!--        <item name="android:windowBackground">@color/black</item>  &lt;!&ndash; Background color for the app &ndash;&gt;-->
+<!--        <item name="android:textColor">@color/white</item>  &lt;!&ndash; Default text color &ndash;&gt;-->
+<!--    </style>-->
+</resources>

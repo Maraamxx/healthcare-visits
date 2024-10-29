@@ -1,0 +1,6 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:fontFamily">@font/my_custom_font2</item>
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+</resources>
